@@ -1,0 +1,37 @@
+
+H
+java:S6126"2Replace this String concatenation with Text block.(Ç–©ì
+M
+java:S6126"2Replace this String concatenation with Text block.(º¹ìÔùÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(Ş•°Îüÿÿÿÿ
+M
+java:S6126 "2Replace this String concatenation with Text block.(Şòºùÿÿÿÿ
+H
+java:S6126("2Replace this String concatenation with Text block.(¾°ş„
+H
+java:S61260"2Replace this String concatenation with Text block.(ï†Å
+M
+java:S61268"2Replace this String concatenation with Text block.(“óì¬úÿÿÿÿ
+H
+java:S6126@"2Replace this String concatenation with Text block.(²²µ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ö¨°Õıÿÿÿÿ
+g
+java:S1192,"LDefine a constant instead of duplicating this literal "  |     O 
+" 4 times.(„™á—ÿÿÿÿÿ
+a
+java:S1192"KDefine a constant instead of duplicating this literal "  |     |
+" 6 times.(‡“Œ
+c
+java:S1192"MDefine a constant instead of duplicating this literal "  |     | 
+" 12 times.(‡“Œ
+b
+java:S1192
+"LDefine a constant instead of duplicating this literal "  |      
+" 19 times.(ºÕºÄ
+a
+java:S1192"KDefine a constant instead of duplicating this literal "   _____ 
+" 8 times.(Ç–©ì
+]
+java:S1192"GDefine a constant instead of duplicating this literal "__|__
+" 8 times.(õŠè¼
