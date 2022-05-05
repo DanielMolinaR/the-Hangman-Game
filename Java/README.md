@@ -18,13 +18,13 @@ Reload the maven project and run the main class.
 
 ## Design
 
-This development of the project is more situated for OO. That makes the project to be more like a Game Machine where you can have different games. In our case we will only have the Hangman Game. To reach the implementation of a Game Machina I have used Polymorphism. Thanks to it I can add a new game easily and without reflecting any change or impact on the actual code.
+The development of the project is more focused for OO. This makes the prokect be more like a Game Machine where you can have different games. In my case I will only have the Hangman Game. To reach the implementation of a Game Machina I have used Polymorphism. Thanks to it I can add a new game easily and without reflecting any change or impact on the actual code.
 
 ### Interesting implementation decisions
 
-I've decided to user an external library to generate randomly the words.
-Drawer, the drawer is the class in charge of drawing the board, in our case the Hangman.
-HangmangGameController and HangmangGame objects. The controller manages the step of the game and the game manages the logic. It has been designed like this for future implementations like it can be the AdvancedHangmanGame.
+- I've decided to user an external library to generate randomly the words.
+- **Drawer** is the class in charge of drawing the board, in our case the Hangman.
+- **HangmangGameController and HangmangGame**. The HangmanGameController manages the steps of the game and the HangmanGame manages the game logic. It has been designed like this for future implementations like it could be the AdvancedHangmanGame or another different game.
 
 ## Improvements
 
