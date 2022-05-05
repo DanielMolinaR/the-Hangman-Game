@@ -62,7 +62,7 @@ public class HangmanGame implements Game{
         System.out.println("The Hangman word is: " + convertStringArrayToString(displayOfGuesses));
 
         // If you want to know the word unccoment the next line
-        // System.out.println(wordToGuess);
+        System.out.println(wordToGuess);
 
         Scanner input = new Scanner(System.in);
 
@@ -74,6 +74,9 @@ public class HangmanGame implements Game{
             if (wordToGuess.contains(cleanedGuess)){
                 if (cleanedGuess.equals(wordToGuess)) {
                     displayOfGuesses = wordToGuess.split("");
+                } else if (cleanedGuess.length() > 1) {
+                    errorCount ++;
+                    this.alreadyTried.add(guess);
                 } else {
                     updateGame(cleanedGuess);
                 }
