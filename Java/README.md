@@ -29,7 +29,7 @@ The development of the project is more focused for OO. This makes the prokect be
 ## Improvements
 
 - **Add cache memory**: WOuld be nice to store the game from the users.
-- **Change the Hangman Drawr**: The Hangman Drawer would be better if it has state or conditions to draw the hangman.
+- **Change the Hangman Drawer**: The Hangman Drawer would be better if it has state or conditions to draw the hangman.
 - **Improve testing**
 - **Error management**
 
