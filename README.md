@@ -9,3 +9,5 @@ For both projects the rules of the game are the same. The computer is the one wh
 ## Design
 
 The game was requested to be done in Python a multi-paradigm language and Java an OO one. As these two languages can be very different, I decided to develop the game in both languages to see the main difference between paradigms. In Java language I applied good practices and followed the software principles while using some testing techniques. Taking the advantages of OO programing languages the game was developed like a game machine so the code is modular and easy to scale. With a Game Machine the addition of new games and their logics is easier. On the other hand, for Python, I decided just to develop the game in the easiest way possible to compare the relation quality-cost between an easy script in Python with a more scalable product in Java.
+
+Any questions or suggestions send them to me at [daniel.molina.rub@gmail.com](mailto:daniel.molina.rub@gmail.com)
