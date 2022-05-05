@@ -14,7 +14,7 @@ The game was developed in a [notebook](https://colab.research.google.com/drive/1
 
 ## Execution
 
-- [Google Collaborative](https://colab.research.google.com/drive/1fhDjqEZLXIsEKmIjr1HCPkX0dT_aRNaE?usp=sharing). You will have to copy the notebook on your personal Drive and the run all the cells in order until you reach the last one which executes the game. Before running all the cells make sure you have the requests library installed.
+- [Google Collaborative](https://colab.research.google.com/drive/1fhDjqEZLXIsEKmIjr1HCPkX0dT_aRNaE?usp=sharing). You will have to copy the notebook on your personal Drive and then run all the cells in order until you reach the last one which executes the game. Before running all the cells make sure you have the "requests" library installed.
 - Local: For the execution in local you will have to run in your command line:
 <center><pre><code>pip install -r requirements.txt</center></pre></code>
 After that you will have to run the .py file with:
@@ -22,14 +22,14 @@ After that you will have to run the .py file with:
 
 ## Design
 
-The game has been developed and designed in a fast way to compare the time inversion in this development with the Java one.
+The game has been developed and designed in a simplified way to compare the time inversion in this development with the Java one.
 
 ### Interesting implementations
 
-- I decided to consume the word from an external [source](https://random-word-api.herokuapp.com/all) via API.
+- I decided to consume the words from an external [source](https://random-word-api.herokuapp.com/all) via API.
 
 ## Improvements
 
 - **Add test**
-- **Object oriented design**: There is a lot of global variables needed. That guides to need an OO solution.
+- **Object oriented design**: There is a lot of global variables needed. This guides me to need an OO solution.
 - **Error handling**
