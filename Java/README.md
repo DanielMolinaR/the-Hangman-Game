@@ -9,7 +9,7 @@ This is the Hangman Game developed in Java using the advantages of OOP.
 ## Libraries
 
 - [JUnit 4.13.2](https://mvnrepository.com/artifact/junit/junit/4.13.2)
-- [Random WOrd Generator 1.1.0](https://github.com/Dhiraj072/random-word-generator) Sadly this library initialize a slf4j logger and It prints the inizalitation output.
+- [Random WOrd Generator 1.1.0](https://github.com/Dhiraj072/random-word-generator) Sadly this library initialize a slf4j logger and It prints the initialization output.
 - [Mockito 4.0.0](https://mvnrepository.com/artifact/org.mockito/mockito-inline/4.0.0)
 
 ## Execution
